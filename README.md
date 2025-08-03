@@ -1,6 +1,6 @@
 # Self-Attendance-App
 
-a Self Attendance App designed to help individuals and students easily track their daily work or attendance.
+A Self Attendance App designed to help individuals and students easily track their daily work or attendance.
 
 Features:
 
